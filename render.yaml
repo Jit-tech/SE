@@ -1,7 +1,5 @@
 services:
   - type: web
     name: emotion-dash-app
-    env: python
+    env: docker
     plan: free
-    buildCommand: "pip install -r requirements.txt"
-    startCommand: "python app.py"
