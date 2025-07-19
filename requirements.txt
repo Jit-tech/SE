@@ -1,6 +1,6 @@
 dash==2.17.0
 opencv-python-headless==4.7.0.72
-dlib @ https://github.com/RvTechi/dlib-manylinux/releases/download/v19.24.0/dlib-19.24.0-cp310-cp310-manylinux_2_17_x86_64.whl
+dlib @ https://files.pythonhosted.org/packages/36/f5/b5a387d3f50b8c2f07c38938aa3706d1ac3652b1e5d3a2cf23ee3fcd6a63/dlib-19.24.0-cp310-cp310-manylinux_2_17_x86_64.whl
 deepface==0.0.79
 numpy==1.23.5
 Pillow==9.5.0
